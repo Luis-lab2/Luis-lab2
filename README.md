@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Filipe;Tenho+19+anos;Sou+Brasileiro;E+sou+Técnico+em+Desenvolvimento+de+Sistemas;Formado+Na+ETE+Ministro+Fernando+Lyra;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Filipe;Tenho+19+anos;Sou+Brasileiro;E+sou+Técnico+em+Desenvolvimento+de+Sistemas;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
 
  <div aling="center">
    <a href="https://github.com/Luis-lab2">
-   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OMestreO&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img width="40%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMestreO&layout=compact&langs_count=6&theme=onedark"/>
+   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luis-lab2&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img width="40%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luis-lab2&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
