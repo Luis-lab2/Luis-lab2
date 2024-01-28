@@ -4,7 +4,7 @@
 <br>
 
  <div aling="center">
-   <a href=https://github.com/Luis-lab2>
+   <a href="https://github.com/Luis-lab2">
    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OMestreO&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
    <img width="40%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OMestreO&layout=compact&langs_count=6&theme=onedark"/>
 
