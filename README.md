@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Filipe;Tenho+19+anos;Sou+Brasileiro;E+sou+Técnico+em+Desenvolvimento+de+Sistemas;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Filipe;Tenho+21+anos;Sou+Brasileiro;E+sou+Técnico+em+Desenvolvimento+de+Sistemas;+Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
